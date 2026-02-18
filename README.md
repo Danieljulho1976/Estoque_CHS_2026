@@ -76,3 +76,4 @@ Conta do Supabase: gestaoestoquechs@gmail.com
 https://supabase.com/dashboard/project/wsfkiprpdchfkevphlly/editor/17299?schema=public
 
 Conta Git Hub: https://github.com/Danieljulho1976
+Conta Vercel: clipsdahora@gmail.com
